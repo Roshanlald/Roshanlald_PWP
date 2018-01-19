@@ -1,0 +1,6 @@
+first we studied how to create an account in github app
+2.then to use the terminal
+3.python programs
+4.printing our name
+5.addition,subtraction,multiplication,division and % in the python
+6.importance of int, input and float commands
