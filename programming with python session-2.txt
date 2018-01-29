@@ -1,0 +1,10 @@
+programming with python 
+session 2
+performed 
+1.if statements
+2.else statements
+3.else if statements
+4.snake and ladder codes
+5.while loop
+6.importance of input
+7.importance of int
