@@ -1,0 +1,10 @@
+#file_manupalation
+r=open("rr.txt","w")
+r.write("helooooooo, good morning")
+r=open("rr.txt","r")
+r.read()
+r=open("rr.txt","a")
+r.write("             how r u all")
+r=open("rr.txt","r")
+r.read()
+print("yeah,done")
