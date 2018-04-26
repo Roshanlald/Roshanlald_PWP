@@ -1,3 +1,5 @@
+#TWO LINE GRAPHS
+
 import matplotlib.pyplot as plt
  
 # line 1 points
