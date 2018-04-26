@@ -1,3 +1,5 @@
+#BAR GRAPH
+
 import matplotlib.pyplot as plt
  
 # x-coordinates of left sides of bars 
