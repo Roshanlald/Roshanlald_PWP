@@ -1,3 +1,5 @@
+#DOT GRAPH
+
 import matplotlib.pyplot as plt
  
 # x axis values
